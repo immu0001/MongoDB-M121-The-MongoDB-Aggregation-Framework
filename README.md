@@ -18,15 +18,6 @@ You'll build an understanding about how to use MongoDB Aggregation Framework pip
 <br/>
 
 ## Certificate of Completion
-
-You can see the [Certificate of Completion](https://github.com/AlessandroCorradini/Certificates/blob/master/MongoDB%20University%20-%20M121%20The%20MongoDB%20Aggregation%20Framework.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
-
-### ⚠️ Disclaimer ⚠️
-
-**Please, don't fork or copy this repository.**
-
-**This course offered by MongoDB University level is introductory/intermediate level and you can complete it with a small amount of study every week.**
-
 <br/>
 <object data="m121-mongodb-Aggregation-framework.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="m121-mongodb-Aggregation-framework.pdf">
@@ -35,3 +26,12 @@ You can see the [Certificate of Completion](https://github.com/AlessandroCorradi
         <p>Verify the Certification : <a href="https://university.mongodb.com/course_completion/8c56b017-45b1-4fea-a526-af262f59e20b/printable"> Click Here to Verify</a>.</p>
     </embed>
 </object>
+
+
+### ⚠️ Disclaimer ⚠️
+
+**Please, don't fork or copy this repository.**
+
+**This course offered by MongoDB University level is introductory/intermediate level and you can complete it with a small amount of study every week.**
+
+
