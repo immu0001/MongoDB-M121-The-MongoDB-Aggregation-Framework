@@ -17,7 +17,7 @@ You'll build an understanding about how to use MongoDB Aggregation Framework pip
 
 <br/>
 
-##### ...........................................
+##### ..............................................
 ## Certificate of Completion
 <br/>
 <object data="m121-mongodb-Aggregation-framework.pdf" type="application/pdf" width="700px" height="700px">
