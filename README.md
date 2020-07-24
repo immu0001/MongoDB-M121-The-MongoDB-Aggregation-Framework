@@ -29,7 +29,7 @@ You'll build an understanding about how to use MongoDB Aggregation Framework pip
 </object>
 <br/>
 
-##### ...............
+##### ........................
 
 ### ⚠️ Disclaimer ⚠️
 
