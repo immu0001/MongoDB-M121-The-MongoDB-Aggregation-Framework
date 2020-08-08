@@ -29,7 +29,7 @@ You'll build an understanding about how to use MongoDB Aggregation Framework pip
 </object>
 <br/>
 
-##### .......................................................................................
+##### ..........................................................................................
 
 ### ⚠️ Disclaimer ⚠️
 
@@ -37,5 +37,5 @@ You'll build an understanding about how to use MongoDB Aggregation Framework pip
 
 **This course offered by MongoDB University level is introductory/intermediate level and you can complete it with a small amount of study every week.**
 
-##### ................................................
+##### ..................................................
 
