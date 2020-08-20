@@ -17,7 +17,7 @@ You'll build an understanding about how to use MongoDB Aggregation Framework pip
 
 <br/>
 
-##### ................................................................................................................
+##### .....................................................................................................................
 ## Certificate of Completion
 <br/>
 <object data="m121-mongodb-Aggregation-framework.pdf" type="application/pdf" width="700px" height="700px">
@@ -29,7 +29,7 @@ You'll build an understanding about how to use MongoDB Aggregation Framework pip
 </object>
 <br/>
 
-##### ...............................................................................................................
+##### ..................................................................................................................
 
 ### ⚠️ Disclaimer ⚠️
 
@@ -37,5 +37,4 @@ You'll build an understanding about how to use MongoDB Aggregation Framework pip
 
 **This course offered by MongoDB University level is introductory/intermediate level and you can complete it with a small amount of study every week.**
 
-##### ..................................................................................................
-.......
+##### ..............................................................................................................
