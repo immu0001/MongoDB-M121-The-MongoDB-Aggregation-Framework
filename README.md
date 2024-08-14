@@ -16,7 +16,7 @@ We highly recommend taking M001 or M220P or 3-6 months experience using MongoDB 
 You'll build an understanding about how to use MongoDB Aggregation Framework pipeline, document transformation and data analysis. We will look into the internals of the Aggregation Framework alongside with optimization and pipeline building practices.
 
 <br/>
-
+..
 ##### ....................................................................................................................................................................................................................................................
 ## Certificate of Completion
 <br/>
